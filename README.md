@@ -98,7 +98,7 @@ Following the systemic structure detailed across **Sections §3 to §7** of the 
 If our formalization, taxonomy, or roadmap framework assists your research, please cite our definitive paper:
 
 ```latex
-@article{dong2026toward,
+@article{TencentYoutuLab2026toward,
   title={Toward Native Multimodal Modeling: A Roadmap},
   author={Siyu An, Junru Lu, Junnan Dong, et al.},
   journal={arXiv preprin},
