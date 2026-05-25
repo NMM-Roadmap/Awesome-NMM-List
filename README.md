@@ -3,6 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Formally Defined](https://img.shields.io/badge/Paradigm-Born_Native-purple.svg)]()
 [![Chronological Tracking](https://img.shields.io/badge/Timeline-2023--2026-blue.svg)]()
+[!(https://img.shields.io/github/stars/NMM-Roadmap/Awesome-NMM-List?style=social)])(https://github.com/NMM-Roadmap/Awesome-NMM-List)
 
 > A curated repository for the landmark paper: **"Toward Native Multimodal Modeling: A Roadmap"**.
 >
