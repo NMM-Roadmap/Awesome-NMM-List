@@ -1,4 +1,4 @@
-# Awesome Native Multimodal Modeling (NMM) & World Models 🚀
+# Awesome Native Multimodal Modeling (NMM) 🚀
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Formally Defined](https://img.shields.io/badge/Paradigm-Born_Native-purple.svg)]()
