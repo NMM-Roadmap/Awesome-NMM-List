@@ -100,7 +100,7 @@ If our formalization, taxonomy, or roadmap framework assists your research, plea
 ```latex
 @article{dong2026toward,
   title={Toward Native Multimodal Modeling: A Roadmap},
-  author={Dong, Junnan and Shu, Melissa and Wang, George and Li, Qingyun and Zhou, Shuang},
-  journal={arXiv preprint arXiv:26xx.xxxxx},
+  author={Siyu An, Junru Lu, Junnan Dong, et al.},
+  journal={arXiv preprin},
   year={2026}
 }
