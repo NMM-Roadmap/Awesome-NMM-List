@@ -17,7 +17,7 @@
 
 <p>
   <b>📄 Companion paper:</b>
-  <a href="#-citation"><i>"Toward Native Multimodal Modeling: A Roadmap"</i></a>
+  <a href="https://arxiv.org/abs/2605.25343"><i>"Toward Native Multimodal Modeling: A Roadmap"</i></a>
 </p>
 
 <p>
