@@ -32,6 +32,7 @@
 </div>
 
 ---
+<img src="images/running example.png">
 
 > This repository systematically tracks the structural transition from **Modular Assembly** — late-fusion / grafted compositions that suffer from a fundamental blindness to raw sensory signals — to **Native Multimodal Modeling (NMM)**, where multiple modalities are intrinsically integrated into a *unified transformer space* or *joint backbone*.
 >
