@@ -143,6 +143,7 @@ We formalize the NMM ecosystem through a dual-dimensional lens based on **Integr
 - **LLaDA-V** [Ml-GSAI, 2025] — [`💻 GitHub`](https://github.com/ML-GSAI/LLaDA-V) · [`🌐 Project Page`](https://ml-gsai.github.io/LLaDA-V-demo/) · [`📄 Paper`](https://arxiv.org/abs/2505.16933)
 - **Lance** [ByteDance, 2026] — [`📄 Paper`](https://arxiv.org/abs/2605.18678) — *Leading edge of complete native convergence.*
 - **TUNA-2** [Liu *et al.*, 2026] / **Mamoda 2.5** [Shi *et al.*, 2026] / **LongCat-Next** — *Forthcoming.*
+- **Dynin-Omni** [Kim et al., 2026] — [`💻 GitHub`](https://github.com/AIDASLab/Dynin-Omni) · [`🤗 HF Model`](https://huggingface.co/snu-aidas/Dynin-Omni) · [`📄 Paper`](https://arxiv.org/abs/2604.00007) · [`🌐 Project Page`](https://dynin.ai/omni/)
 
 > ★ *Denotes early exploratory or foundational dual-regime architectures.*
 
